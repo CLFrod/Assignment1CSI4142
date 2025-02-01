@@ -2,7 +2,7 @@
 ## UOttawa
 
 ### Setup Instructions:
-1. In a folder of your choosing run:
+1. In a folder of your choosing run (if setting up from git entirely, otherwise skip this step):
 ```
 git clone https://github.com/CLFrod/Assignment1CSI4142.git
 ```
@@ -19,6 +19,3 @@ source .venv/bin/activate # on mac/linux
 ```
 pip install -r requirements.txt
 ```
-4. Generate the kaggle api key:
-Follow the steps here: https://www.kaggle.com/docs/api
-And make sure the kaggle.json file is in the correct outlined.
